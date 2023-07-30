@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @prima1poll932
+- 👀 I’m interested in iOS app. I’m currently learning Swift.
+- 🌱 Mastering Swift. Passionate about iOS app development. Striving to create intuitive, engaging apps.
